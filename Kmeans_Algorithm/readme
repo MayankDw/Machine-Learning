@@ -1,0 +1,2 @@
+This folder contains the implementation of K means algorithm from scratch. 
+We have a file that contains data points and these points will be used to forms different clusters using Kmeans algorithm. 
